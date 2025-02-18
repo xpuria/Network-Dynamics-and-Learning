@@ -30,9 +30,10 @@
    ```bash  
    git clone https://github.com/yourusername/Network-Dynamics-Projects.git
 
+## 📄 Reports
+Detailed methodology, visualizations, and conclusions are in the PDF reports within each homework's Reports/ folder.
+
 ## Install dependencies
    ```bash 
    pip install networkx numpy matplotlib pandas  
 
-## 📄 Reports
-Detailed methodology, visualizations, and conclusions are in the PDF reports within each homework's Reports/ folder.
