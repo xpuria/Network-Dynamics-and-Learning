@@ -29,8 +29,10 @@
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/yourusername/Network-Dynamics-Projects.git
+
 ## Install dependencies
-pip install networkx numpy matplotlib pandas  
+   ```bash 
+   pip install networkx numpy matplotlib pandas  
 
 ## 📄 Reports
 Detailed methodology, visualizations, and conclusions are in the PDF reports within each homework's Reports/ folder.
