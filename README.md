@@ -28,7 +28,7 @@
 ## 📝 How to Use  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/Network-Dynamics-Projects.git
+   git clone https://github.com/xpuria/Network-Dynamics-Projects.git
 
 ## 📄 Reports
 Detailed methodology, visualizations, and conclusions are in the PDF reports within each homework's Reports/ folder.
